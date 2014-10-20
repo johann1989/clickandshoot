@@ -1,4 +1,0 @@
-clickandshoot
-=============
-
-ClickAndShootTest
